@@ -83,15 +83,15 @@ AWS_REGION=us-east-1
 ### Clone the repository:
 
 ```
-git clone https://github.com/yourusername/task-management-api.git
-cd task-management-api
+git clone https://github.com/vishal-kumar890/task_management.git
+cd task_management
 
 ```
 
 ### Create and activate a virtual environment:
 
 ```
-python -m venv venv
+python3 -m venv venv
 source venv/bin/activate  # On Windows: venv\Scripts\activate
 
 ```
