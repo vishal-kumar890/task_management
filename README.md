@@ -39,8 +39,8 @@ This Task Management API allows users to create, read, update, and delete tasks.
 
 ## Filtering Examples
 
-- **GET /api/tasks/?status=pending** - Get all pending tasks
-- **GET /api/tasks/?status=completed** - Get all completed tasks
+- **GET /api/tasks/?task_status=pending** - Get all pending tasks
+- **GET /api/tasks/?task_status=completed** - Get all completed tasks
 - **GET /api/tasks/?assigned_to=<user_id>** - Get tasks assigned to a specific user
 
 # Setup Instructions
